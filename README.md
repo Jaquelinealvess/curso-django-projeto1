@@ -1,2 +1,3 @@
-# curso-django-projeto1
-Django
+# Curso-Django-Projeto1
+
+Projeto em construção...
